@@ -27,7 +27,7 @@ if(elevatorStuckWhileWeAreOnIt && elevatorNumber === 13){
 	console.log("Phew. That could have been trouble!");
 }
 
-console.log("----------")
+console.log("----------");
 
 //If/Else statements 
 //Else statements give JS an alternative statement to execute
