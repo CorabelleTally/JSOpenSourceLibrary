@@ -116,3 +116,9 @@ function removeList(){
 function writeWords(){
 	document.write("Tif Added Me!!!!");
 }
+
+console.log("-------");
+
+// basic adding of functions and manipulation of the DOM. Can easily change the variables
+// although these are ones that I have already previously created. 
+
